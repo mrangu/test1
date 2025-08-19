@@ -1,0 +1,9 @@
+class Test():
+  def func1():
+    return 1
+  def func2():
+    return "abc"
+  def func3(a,b,c):
+    return a+b+c
+def func4():
+  return 24
